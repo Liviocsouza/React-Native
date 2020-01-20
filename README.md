@@ -1,7 +1,7 @@
-# React-Native
-Projetos React-native
+# ![](https://img.icons8.com/cute-clipart/2x/react-native.png)React-Native
 
-## Configuração do ambiente
+
+## Configuração do ambiente 
 - [Chocolatey](https://chocolatey.org/)
 - [Android Studio](https://developer.android.com/studio/install?hl=pt-br)
 - Instalar NodeJS Python2 e JDK8
